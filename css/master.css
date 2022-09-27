@@ -1,0 +1,40 @@
+
+    .sidebar {
+    background-color: white;
+    width: 374px;
+    height: 100vh;
+    margin-bottom: 0;
+    }
+    .header{
+    background: #5a8fbb;
+    height: 175px;
+    }
+    .header img{
+    width: 90px;
+    height: 90px;
+    border-radius: 50px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    }
+    .header p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    line-height: 25px;
+    padding-left: 25px;
+    color: white;
+    }
+    .header label{
+        margin-left: 220px;
+        color: white;
+    }
+    .sidebar .list a{
+        display: block;
+        color: #000;
+        text-decoration: none;
+        padding: 16px;
+    }
+    .sidebar .list a span{
+        margin: 20px;
+        color: #969ea1
+    }
